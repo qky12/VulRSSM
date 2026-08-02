@@ -1,0 +1,57 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.Python
+.venv/
+venv/
+.env
+.env.*
+
+# Editors and OS files
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Tests and tooling
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage*
+htmlcov/
+
+# Experiment outputs
+runs/
+run*/
+logdir/
+logs/
+results/
+result*/
+outputs/
+videos/
+rendered_images/
+attack_outputs/
+tensorboard/
+events.out.tfevents.*
+
+# Models and large artifacts
+*.ckpt
+*.pth
+*.pt
+*.pkl
+*.pickle
+*.npz
+*.npy
+*.h5
+*.hdf5
+*.onnx
+*.tar
+*.tar.gz
+*.zip
+
+# Temporary files
+*.tmp
+*.swp
+*~
+

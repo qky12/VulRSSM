@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the accompanying manuscript."
+title: "VulRSSM: Robustness Evaluation of World Models Based on Recurrent State-Space Model"
+type: software
+authors:
+  - family-names: "Qu"
+    given-names: "Kangyun"
+repository-code: "https://github.com/qky12/VulRSSM"
+url: "https://github.com/qky12/VulRSSM"
+license: MIT
+keywords:
+  - world models
+  - recurrent state-space models
+  - adversarial robustness
+  - reinforcement learning
+  - Dreamer
+preferred-citation:
+  type: article
+  title: "Robustness Evaluation of World Models Based on Recurrent State-Space Model"
+  authors:
+    - family-names: "Qu"
+      given-names: "Kangyun"
+  year: 2026
+
